@@ -1,0 +1,13 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME:Tankala Dileep Kumar
+
+Task number: 2
+
+INTERN ID: CT04DF2098
+
+DOMAIN: VLSI
+
+DURATION: 4 WEEKS
+
+MENTOR: Neela Santhosh Kumar
